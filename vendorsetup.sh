@@ -1,1 +1,2 @@
 add_lunch_combo du_grouper-userdebug
+add_lunch_combo du_maguro-userdebug
